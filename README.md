@@ -1,2 +1,2 @@
 # git
-learning git
+learning git and how to use this amazing tool
